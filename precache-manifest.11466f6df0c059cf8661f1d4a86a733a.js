@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8344b6b421c37fe4e20d975304771d1",
+    "revision": "7cb364f6440176f2ededd73c525eae9d",
     "url": "/star-war/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/star-war/static/js/2.01656fa6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e1eadf1b5130717d543",
-    "url": "/star-war/static/js/main.298d4684.chunk.js"
+    "revision": "ddecb88dc57d65933fe0",
+    "url": "/star-war/static/js/main.27d3f167.chunk.js"
   },
   {
     "revision": "a0dca9108aad5389c87c",
