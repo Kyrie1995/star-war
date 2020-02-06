@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/star-war/static/js/main.298d4684.chunk.js",
+    "main.js.map": "/star-war/static/js/main.298d4684.chunk.js.map",
+    "runtime-main.js": "/star-war/static/js/runtime-main.3b1e7e3a.js",
+    "runtime-main.js.map": "/star-war/static/js/runtime-main.3b1e7e3a.js.map",
+    "static/js/2.01656fa6.chunk.js": "/star-war/static/js/2.01656fa6.chunk.js",
+    "static/js/2.01656fa6.chunk.js.map": "/star-war/static/js/2.01656fa6.chunk.js.map",
+    "index.html": "/star-war/index.html",
+    "precache-manifest.736f04601521b61a424b635eeff678cb.js": "/star-war/precache-manifest.736f04601521b61a424b635eeff678cb.js",
+    "service-worker.js": "/star-war/service-worker.js",
+    "static/js/2.01656fa6.chunk.js.LICENSE.txt": "/star-war/static/js/2.01656fa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b1e7e3a.js",
+    "static/js/2.01656fa6.chunk.js",
+    "static/js/main.298d4684.chunk.js"
+  ]
+}
